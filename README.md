@@ -27,11 +27,11 @@ You can enter your birthday and choose today’s date or let the app use the cur
 
 ##Learnings
 
--Working with React state using useState
--Handling dates and dropdowns
--Reusable components in React
--Clean UI with CSS
-
+- Working with React state using useState
+- Handling dates and dropdowns
+- Reusable components in React
+- Clean UI with CSS
+---
 
 ## About the Developer
 Reem Abdelrazek
